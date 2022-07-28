@@ -1,4 +1,3 @@
-import Youtub1 from "./component/Youtub1";
 import {AppBar, Toolbar} from '@mui/material'
 import {Box, Stack} from '@mui/material';
 import Navbar from "./component/Navbar";
