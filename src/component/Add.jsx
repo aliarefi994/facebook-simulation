@@ -86,7 +86,7 @@ import {
               variant="standard"
             />
             <Stack direction="row" gap={1} mt={2} mb={3}>
-              <EmojiEmotions color="primary" />
+              <EmojiEmotions color="blue" />
               <Image color="secondary" />
               <VideoCameraBack color="success" />
               <PersonAdd color="error" />
